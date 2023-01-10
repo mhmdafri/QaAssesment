@@ -1,0 +1,19 @@
+{
+  "name": "camms3---copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "testcafe": "^2.2.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^6.6.6"
+  }
+}
